@@ -1,0 +1,15 @@
+ 								Bora la, passo a passo:
+ 							
+							1 - Escolha no menu iniciar um novo jogo;
+ 						     2 - Digite o seu nome, pode ser qualquer coisa;
+ 				3 - Vai aparecer uma lista de barcos, voce pode colocar eles ou na horizontal (h)
+				ou na vertical (v). (#) são os espacos que os barcos irao oculpar, ta com duvida de 
+				quantos espacos ocupam cada barco? olha nos comentarios do arquivo main;
+ 						4 - Adicione os barcos selecionando uma linha e uma coluna;
+ 				5 - se aparecer ">sua vez" significa que o jogo comecou e agora VOCE escolhe uma
+				linha e uma coluna no tabuleiro do ADVERSARIO (cpu) se tiver acertado algum barco:
+				alvo atingido! se nao, Agua!
+ 					6 - O jogo so termina quando alguem terminar de acertar todos os barcos
+			     7 - Ao final voce vai receber uma pontuacao e voce pode ver o seu ranking no menu RANKING
+
+
