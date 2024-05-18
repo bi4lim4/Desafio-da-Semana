@@ -38,3 +38,9 @@
  - **Desafio 006:**
     - Iniciante: Programa de Gerenciamente Acadêmico
     - Intermediário: Sistema de Gerenciamento de Tarefas   
+
+### Semana 7
+
+ - **Desafio 007:**
+    - Iniciante: Programa de lançamento de dados aleatórios
+    - Intermediário: Programa gerador de senhas   
