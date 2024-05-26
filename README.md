@@ -43,4 +43,9 @@
 
  - **Desafio 007:**
     - Iniciante: Programa de lançamento de dados aleatórios
-    - Intermediário: Programa gerador de senhas   
+    - Intermediário: Programa gerador de senhas
+
+### Semana 8
+
+ - **Desafio 008:**
+    - Iniciante: Programa que informa o valor de um produto de acordo com a forma de pagamento
