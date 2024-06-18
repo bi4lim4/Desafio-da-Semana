@@ -53,5 +53,5 @@
 ### Semana 9
 
  - **Desafio 009:**
-    - Iniciante: Programa que lê a nota de 10 alunos e calcula a media ponderada, além de exibir o conceito
+    - Iniciante: Programa que lê as notas de 10 alunos e calcula a media ponderada, além de exibir o conceito
     - Intermediário: Conversor de moedas utilizando API para obtênção de taxas de câmbio    
