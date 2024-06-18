@@ -49,3 +49,9 @@
 
  - **Desafio 008:**
     - Iniciante: Programa que informa o valor de um produto de acordo com a forma de pagamento
+
+### Semana 9
+
+ - **Desafio 009:**
+    - Iniciante: Programa que lê a nota de 10 alunos e calcula a media ponderada, além de exibir o conceito
+    - Intermediário: Conversor de moedas utilizando API para obtênção de taxas de câmbio    
