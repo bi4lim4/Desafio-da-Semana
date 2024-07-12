@@ -54,4 +54,16 @@
 
  - **Desafio 009:**
     - Iniciante: Programa que lê as notas de 10 alunos e calcula a media ponderada, além de exibir o conceito
-    - Intermediário: Conversor de moedas utilizando API para obtênção de taxas de câmbio    
+    - Intermediário: Conversor de moedas utilizando API para obtênção de taxas de câmbio
+
+### Semana 10
+
+ - **Desafio 010:**
+    - Iniciante: Programa que verifica se uma palavra é um palíndromo
+    - Intermediário: Encontrando e preenchendo os números que faltam em uma determinada sequência numérica
+
+### Semana 11
+
+ - **Desafio 011:**
+    - Iniciante: Programa identifica os números primos dentro de um vetor de inteiros
+    - Intermediário: Jogo da memória simples            
